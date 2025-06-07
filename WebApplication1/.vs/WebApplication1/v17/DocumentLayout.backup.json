@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\webapplication1\\customer.admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customer.admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|c:\\users\\moham\\onedrive\\desktop\\webapplication1\\webapplication1\\webapplication1\\cashbacktransac.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\cashbacktransac.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\webapplication1\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\webapplication1\\unsubscribedplans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\unsubscribedplans.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\webapplication1\\customerhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB26B67A-F854-4F5D-8B5E-5C0C9A19C983}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\customerhomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moham\\OneDrive\\Desktop\\Milestone 2 code starter for 3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 548,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cashbacktransac.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\Cashbacktransac.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Cashbacktransac.aspx",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\Cashbacktransac.aspx",
+              "RelativeToolTip": "WebApplication1\\Cashbacktransac.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T20:31:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "unsubscribedplans.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\unsubscribedplans.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\unsubscribedplans.aspx",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\unsubscribedplans.aspx",
+              "RelativeToolTip": "WebApplication1\\unsubscribedplans.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T20:40:45.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customerhomepage.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customerhomepage.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\customerhomepage.aspx",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customerhomepage.aspx",
+              "RelativeToolTip": "WebApplication1\\customerhomepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T19:53:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customerlogin.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customerlogin.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\customerlogin.aspx",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customerlogin.aspx",
+              "RelativeToolTip": "WebApplication1\\customerlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T19:52:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Milestone 2 code starter for 3.sql",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Milestone 2 code starter for 3.sql",
+              "RelativeDocumentMoniker": "..\\..\\Milestone 2 code starter for 3.sql",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Milestone 2 code starter for 3.sql",
+              "RelativeToolTip": "..\\..\\Milestone 2 code starter for 3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-05T19:12:08.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.admin.aspx",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customer.admin.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\customer.admin.aspx",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1\\customer.admin.aspx",
+              "RelativeToolTip": "WebApplication1\\customer.admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-05T18:26:03.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

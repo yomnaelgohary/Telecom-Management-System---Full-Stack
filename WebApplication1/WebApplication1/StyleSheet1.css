@@ -1,0 +1,110 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.custom-button {
+    background-color: white; /*blue background */
+    color: #576CD9; /* White text */
+    padding: 10px 20px; /* Space around the text */
+    font-size: 16px; /* Font size */
+    border: 3px solid #576CD9; /* No border */
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+    .custom-button:hover {
+        background-color: #00008B; /* Darker green on hover */
+    }
+
+.custom2-button {
+    background-color: #576CD9; /*blue background */
+    color: white; /* White text */
+    padding: 6px 6px; /* Space around the text */
+    font-size: 12px; /* Font size */
+    border: 3px solid #576CD9;
+    border-radius: 30px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+    .custom2-button:hover {
+        background-color: #00008B; /* Darker green on hover */
+    }
+
+.label-style {
+    font-family: 'Verdana', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    color: #007BFF; /* Blue text */
+    text-align: left;
+    padding: 8px;
+    background-color: #e9f5ff; /* Light blue background */
+    border: 1px solid #007BFF; /* Blue border */
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow effect */
+}
+
+.rounded-shadow-textbox {
+    font-size: 14px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Light shadow effect */
+    background-color: #fff; /* White background */
+    width: 150px;
+    height: 10px;
+    transition: all 0.3s ease; /* Smooth transition on focus */
+}
+
+    .rounded-shadow-textbox:focus {
+        border-color: #0056b3; /* Darker blue border on focus */
+        box-shadow: 0 0 10px rgba(0, 86, 179, 0.5); /* Blue shadow on focus */
+    }
+
+.label2-style {
+    font-family: 'Verdana', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    color: darkred; /* Blue text */
+    text-align: left;
+    padding: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow effect */
+}
+
+.gridview-container {
+    width: 100%; /* Full width */
+    border-collapse: collapse; /* Remove space between cells */
+    margin-top: 20px; /* Space above the grid */
+}
+
+.gridview-header {
+    background-color: #576CD9; /* Header background color */
+    color: white; /* Header text color */
+    font-weight: bold; /* Bold text */
+    text-align: left; /* Align text to the left */
+    padding: 10px; /* Space around header text */
+}
+
+.gridview-row {
+    background-color: #f9f9f9; /* Light background for rows */
+    border-bottom: 1px solid #ccc; /* Border between rows */
+}
+
+    .gridview-row:hover {
+        background-color: #e0e0e0; /* Change background on hover */
+    }
+
+.gridview-cell {
+    padding: 10px; /* Space around cell text */
+    text-align: left; /* Align text to the left */
+    color: #333; /* Dark text color */
+}
+
+.gridview-footer {
+    background-color: #576CD9; /* Footer background color */
+    color: white; /* Footer text color */
+    font-weight: bold; /* Bold text */
+    text-align: left; /* Align text to the left */
+    padding: 10px; /* Space around footer text */
+}
