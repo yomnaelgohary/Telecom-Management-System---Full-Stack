@@ -2,8 +2,8 @@
 
 ## Project Description
 A complete full-stack Telecom Management System combining:
-- **Backend**: SQL database (Milestone 2) with stored procedures, functions, and views for telecom operations
-- **Frontend**: Web application (Milestone 3) with admin and customer portals built with ASP.NET or preferred technology
+- **Backend**: SQL database with stored procedures, functions, and views for telecom operations
+- **Frontend**: Web application with admin and customer portals built with ASP.NET or preferred technology
 
 ## Key Features
 ### Backend (SQL)
