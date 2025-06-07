@@ -3,7 +3,7 @@
 ## Project Description
 A complete full-stack Telecom Management System combining:
 - **Backend**: SQL database with stored procedures, functions, and views for telecom operations
-- **Frontend**: Web application with admin and customer portals built with ASP.NET or preferred technology
+- **Frontend**: Web application with admin and customer portals built with ASP.NET
 
 ## Key Features
 ### Backend (SQL)
@@ -28,7 +28,7 @@ A complete full-stack Telecom Management System combining:
 ## Technical Stack
 - Database: SQL Server
 - Backend: T-SQL Stored Procedures/Functions
-- Frontend: ASP.NET (or team's choice)
+- Frontend: ASP.NET
 - UI: Responsive design with action feedback
 
 ## Deliverables
